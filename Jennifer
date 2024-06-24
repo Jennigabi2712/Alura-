@@ -1,0 +1,37 @@
+1 <!DOCTYPEhtml
+
+2 <html idioma=
+
+3 <cabeça>
+
+4 <script
+
+src="https://cdnjs.cloudflare.com/ajax/libs/p5 .js/1.9.4/p5.js"></script>
+
+<script
+
+src="https://cdnjs.cloudflare.com/ajax/libs/p5 .js/1.9.4/addons/p5.sound.min.js"></script>
+
+<link rel="stylesheet" type="text/css"
+
+href="style.css">
+
+<meta charset="utf-8" />
+
+5
+
+9 </head>
+
+10 <corpo>
+
+11
+
+<principal>
+
+12 </principal>
+
+13 <script src="sketch.js"></script>
+
+14 </body>
+
+15 </htm
